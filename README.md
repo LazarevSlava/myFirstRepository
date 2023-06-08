@@ -1,2 +1,0 @@
-# myFirstRepository
-page from frontendmentor
